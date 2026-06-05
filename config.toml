@@ -1,0 +1,6 @@
+# 插件运行时配置文件
+[plugin]
+config_version = "1.5.0"
+enabled = true
+whitelist_only = false
+whitelist_users = ""
