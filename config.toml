@@ -1,0 +1,4 @@
+[plugin]
+config_version = "2.5.0"
+enabled = true
+whitelist_users = ""
